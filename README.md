@@ -50,7 +50,7 @@ What I did in Edemia Project:
 3. Automate API Test with Postman using Newman
 4. Implement CI/CD Method using simple Node JS to run the Newman automation command every push on "main" branch
 
-The repository of Edemia API Test can be found [here](https://github.com/Learning-Management-System-Kelompok-42/QA-LMS). Read the (README.md)[https://github.com/Learning-Management-System-Kelompok-42/QA-LMS/blob/main/README.md] document for the Edemia' simple API Testing documentation that contains the Test Scenario & Test Cases link.
+The repository of Edemia API Test can be found [here](https://github.com/Learning-Management-System-Kelompok-42/QA-LMS) . Read the [README.md](https://github.com/Learning-Management-System-Kelompok-42/QA-LMS/blob/main/README.md) document for the Edemia' simple API Testing documentation that contains the Test Scenario & Test Cases link.
 
 ### Currently learning about...
 I currently learn about how to use Katalon Studio for another Web UI Automation Test journey :) Here's the [repository](https://github.com/kirarutami/katalon-practice) where I learn Katalon Studio.
