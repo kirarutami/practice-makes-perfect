@@ -17,7 +17,7 @@ I learn Jira as the Bug Management Tools. What have I did before with Jira:
 1. PT. Kenali Indah Sejahtera
 PT. Kenali Indah Sejahtera (KIS) is a Jambi, Sumatera based company that engaged in the Transportation and Collection of Hazardous Toxic Waste ( Pengangkutan dan Pengumpulan Limbah Bahan Berbahaya Beracun or B3) on a National Scale which already has a permit from the Ministry of Environment and Forestry of the Republic of Indonesia along with a Special Goods Transport Permit from the Ministry of Transportation of the Republic of Indonesia.
 
-KIS has an static [website](https://kenaliindahsejahtera.com) which to me should have a little bit of touch and fixing to make it more better. I have written some bugs as issues at Jira and already report it to the developer.
+KIS has a static [website](https://kenaliindahsejahtera.com) which to me should have a little bit of touch and fixing to make it more better. I have written some bugs as issues at Jira and already report it to the developer.
 
 Jira issues summary can be seen in image below.
 ![Jira-KIS](/manual/pt-kenali-indah-sejahtera/issue-summary.png)
@@ -50,7 +50,7 @@ What I did in Edemia Project:
 3. Automate API Test with Postman using Newman
 4. Implement CI/CD Method using simple Node JS to run the Newman automation command every push on "main" branch
 
-The repository of Edemia API Test can be found [here](https://github.com/kirarutami/edemia-api-automation). Read the (README.md)[https://github.com/kirarutami/edemia-api-automation/blob/main/README.md] document for the Edemia' simple API Testing documentation that contains the Test Scenario & Test Cases link.
+The repository of Edemia API Test can be found [here](https://github.com/Learning-Management-System-Kelompok-42/QA-LMS). Read the (README.md)[https://github.com/Learning-Management-System-Kelompok-42/QA-LMS/blob/main/README.md] document for the Edemia' simple API Testing documentation that contains the Test Scenario & Test Cases link.
 
 ### Currently learning about...
 I currently learn about how to use Katalon Studio for another Web UI Automation Test journey :) Here's the [repository](https://github.com/kirarutami/katalon-practice) where I learn Katalon Studio.
