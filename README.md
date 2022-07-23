@@ -2,7 +2,6 @@
 
 This documentation is for my portfolio. Contains what have I done before as my practice to expert field at Quality Assurance (Manual) or Automation role. This document will be separate by two section, Manual and Automation.
 
-===
 ## Manual
 
 ### Experience
@@ -25,8 +24,6 @@ Jira issues summary can be seen in image below.
 ![Jira-KIS](/manual/pt-kenali-indah-sejahtera/issue-summary.png)
 
 You can see the detailed issue one by one (without attachment) [here](https://github.com/kirarutami/practice-makes-perfect/blob/main/manual/pt-kenali-indah-sejahtera/complete-KIS-issues.pdf)
-
-===
 
 ## Automation
 
